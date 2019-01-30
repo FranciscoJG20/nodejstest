@@ -1,0 +1,23 @@
+{
+  "name": "nodejstest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranciscoJG20/nodejstest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FranciscoJG20/nodejstest/issues"
+  },
+  "homepage": "https://github.com/FranciscoJG20/nodejstest#readme",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "underscore": "^1.9.1"
+  }
+}
